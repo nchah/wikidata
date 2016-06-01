@@ -1,6 +1,16 @@
 # wikidata
 Resources to track work on Wikidata and the FB migration.
 
+## Wikidata:Introduction
+
+A [Wikidata:Introduction](https://www.wikidata.org/wiki/Wikidata:Introduction) to learn how it all works.
+
+```
+Wikidata is a project of the Wikimedia Foundation: a free, collaborative, multilingual, 
+secondary database, collecting structured data to provide support for Wikipedia, 
+Wikimedia Commons, the other Wikimedia projects, and well beyond that.
+```
+
 ## WikiProject Freebase
 
 The [Wikidata:WikiProject Freebase](https://www.wikidata.org/wiki/Wikidata:WikiProject_Freebase) project page.
@@ -11,6 +21,8 @@ Freebase was a community curated knowledge base like Wikidata.
 It was managed by Google who in December 2014 said that they will close Freebase and 
 offer its content to Wikidata."
 ```
+
+Further information on Freebase also available in this repo [nchah/freebase-mql](https://github.com/nchah/freebase-mql).
 
 ### Class mapping
 
@@ -53,7 +65,14 @@ ready for consumption by this tool under a CC0 license.
 
 The [Help:FAQ/Freebase](https://www.wikidata.org/wiki/Help:FAQ/Freebase) resource is essential to understanding some of the common questions in this project.
 
-## Database Download
+
+## Data Access
+
+### Wikidata API
+
+The [Wikibase/API](https://www.mediawiki.org/wiki/Wikibase/API) covers API access, methods, and endpoints.
+
+### Database Download
 
 The [Wikidata:Database download](https://www.wikidata.org/wiki/Wikidata:Database_download) provides methods for downloading the data dumps in JSON, XML, and RDF.
 
