@@ -6,7 +6,10 @@ Resources to track work on Wikidata and the FB migration.
 The [Wikidata:WikiProject Freebase](https://www.wikidata.org/wiki/Wikidata:WikiProject_Freebase) project page.
 
 ```
-"WikiProject Freebase exists to coordinate the migration and use of data at Freebase. Freebase was a community curated knowledge base like Wikidata. It was managed by Google who in December 2014 said that they will close Freebase and offer its content to Wikidata."
+"WikiProject Freebase exists to coordinate the migration and use of data at Freebase. 
+Freebase was a community curated knowledge base like Wikidata. 
+It was managed by Google who in December 2014 said that they will close Freebase and 
+offer its content to Wikidata."
 ```
 
 ### Class mapping
@@ -31,13 +34,18 @@ Freebase *topics* with a high number of links are mapped to Wikidata entities at
 The [Wikidata:Primary sources tool](https://www.wikidata.org/wiki/Wikidata:Primary_sources_tool) is used by Wikidata editors to curate semantic content on Wikidata.
 
 ```
-"The primary sources tool allows for a curation workflow for data donations to Wikidata, where Wikidata editors can review, edit, or reject data offered to the community. The workflow is integrated into Wikidata."
+"The primary sources tool allows for a curation workflow for data donations to Wikidata, 
+where Wikidata editors can review, edit, or reject data offered to the community. 
+The workflow is integrated into Wikidata."
 ```
 
 Code is availabe at the [google/primarysources](https://github.com/google/primarysources) repo.
 
 ```
-The Primary Sources Tool is an Open Source tool which will run on Wikimedia labs and which will allow Wikidata contributors to find references for a statement and then upload the statement and the reference to Wikidata. We will release several sets of Freebase data ready for consumption by this tool under a CC0 license.
+The Primary Sources Tool is an Open Source tool which will run on Wikimedia labs and 
+which will allow Wikidata contributors to find references for a statement and then upload 
+the statement and the reference to Wikidata. We will release several sets of Freebase data 
+ready for consumption by this tool under a CC0 license.
 ```
 
 
