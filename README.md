@@ -77,3 +77,10 @@ The [Wikibase/API](https://www.mediawiki.org/wiki/Wikibase/API) covers API acces
 The [Wikidata:Database download](https://www.wikidata.org/wiki/Wikidata:Database_download) provides methods for downloading the data dumps in JSON, XML, and RDF.
 
 
+## Wikidata on GitHub
+
+The [Wikidata](https://github.com/Wikidata) organization displays some of the key tools. [Wikimedia Deutschland e.V.](https://github.com/wmde/) presents other key software. 
+
+Interesting projects include [StrepHit (Python)](https://github.com/Wikidata/StrepHit), [Wikidata-Toolkit (Java)](https://github.com/Wikidata/Wikidata-Toolkit), [WikidataClassBrowser (JavaScript)](https://github.com/Wikidata/WikidataClassBrowser). 
+
+
